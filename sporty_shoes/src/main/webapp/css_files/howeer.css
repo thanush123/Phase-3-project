@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.categories .can:hover {
+	background: gray;
+	cursor: pointer;
+}
+
+.products .can:hover {
+	background: gray;
+	color: red;
+	cursor: pointer;
+}
+
+.active:hover {
+	cursor: pointer;
+}
